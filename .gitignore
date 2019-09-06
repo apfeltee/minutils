@@ -1,4 +1,10 @@
 bin
+*.o
+*.exe
+*.stackdump
+*.core
+*.obj
+*.pdb
 .*.swp
 core.[0-9]*
 vgcore.[0-9]*
